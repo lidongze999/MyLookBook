@@ -341,10 +341,11 @@ img#logo {
 	display: inline-block;
 	margin-left: 20px;
 }
-.brands-all{
-	div{
-		margin-left:20px ;
-	}
+.col{
+	display: inline-block;
+}
+.col a{
+	display: block;
 }
 /*品牌详细*/
 .cover-photo{
