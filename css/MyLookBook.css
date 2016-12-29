@@ -346,6 +346,15 @@ img#logo {
 }
 .col a{
 	display: block;
+	padding: 8px 0px;
+	text-decoration: none;
+	color: #888888;
+}
+.col a:hover{
+	color: #101010;
+}
+.allbrands div{
+	margin-left: 20px;
 }
 /*品牌详细*/
 .cover-photo{
