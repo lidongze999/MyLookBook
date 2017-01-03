@@ -375,3 +375,8 @@ img#logo {
 .brands-info h2{
 	color: #FFFFFF;
 }
+.card:hover{
+	opacity: 1.0;  
+    color: #000;  
+    background: rgba(0,0,0,0.7);  
+}
